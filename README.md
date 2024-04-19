@@ -23,7 +23,7 @@ git clone [repo_link]
 * add .env file containing:
 MONGODB_URI = 
 TOKEN_SECRET_KEY = 
-FRONTEND_URL= http://localhost:3000
+FRONTEND_URL= 
 --------------------------------------------------------------------------------------------------------------------------------------
 ### frontend Setup :
 * change directory using <code>cd frontend</code> and write npm install to install all dependency

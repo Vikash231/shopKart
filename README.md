@@ -1,8 +1,8 @@
-The project is made in two parts frontend and backend.
-The frontend is made using reactJs, redux toolkit and tailwindcss
-The backend is made using mongoDB and nodeJs
-To get started with the project follow the below commands
-<br />
+* The project is made in two parts frontend and backend.<br />
+* The frontend is made using reactJs, redux toolkit and tailwindcss<br />
+* The backend is made using mongoDB and nodeJs<br />
+* To get started with the project follow the below commands<br />
+
 Demo Images :
 ---------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot 2024-04-20 003352](https://github.com/Vikash231/shopKart/assets/97658160/c4e28542-16df-4d5e-91b8-580d27d4a7a2)
